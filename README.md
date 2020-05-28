@@ -1,2 +1,2 @@
-# design4all.githiub-io
+# design4all.github-io
 website for web design for all
